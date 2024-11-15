@@ -1,0 +1,9 @@
+go 1.23.3
+
+use (
+	./catalog-service
+	./notification-service
+	./order-service
+	./payment-service
+	./user-service
+)
